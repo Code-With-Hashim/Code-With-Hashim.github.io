@@ -6,10 +6,10 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/B6pv3wz/Home-Page.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/B6pv3wz/Home-Page.png" alt="project-screenshot" width="600" height="600/">
 
-<img src="https://i.ibb.co/Bw2DmLR/Project-Section.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/Bw2DmLR/Project-Section.png" alt="project-screenshot" width="600" height="600/">
 
-<img src="https://i.ibb.co/pb9zQ1v/Technical-Skills.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/pb9zQ1v/Technical-Skills.png" alt="project-screenshot" width="600" height="600/">
 
-<img src="https://i.ibb.co/YNNF4gX/Contact-Section.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/YNNF4gX/Contact-Section.png" alt="project-screenshot" width="600" height="600/">
