@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3548b89c.css",
-    "main.js": "/static/js/main.61773471.js",
+    "main.css": "/static/css/main.9fa5cde4.css",
+    "main.js": "/static/js/main.4adf76ca.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Mohammad_Hassim_Resume.pdf": "/static/media/Mohammad_Hassim_Resume.a5f7dab3cef2f75f174a.pdf",
     "static/media/AboutMe.svg": "/static/media/AboutMe.454b4884a3c230e7f275944a585427f5.svg",
@@ -11,12 +11,12 @@
     "static/media/gmail.svg": "/static/media/gmail.7014c106863669faa2e8edf006d26793.svg",
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
-    "main.3548b89c.css.map": "/static/css/main.3548b89c.css.map",
-    "main.61773471.js.map": "/static/js/main.61773471.js.map",
+    "main.9fa5cde4.css.map": "/static/css/main.9fa5cde4.css.map",
+    "main.4adf76ca.js.map": "/static/js/main.4adf76ca.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3548b89c.css",
-    "static/js/main.61773471.js"
+    "static/css/main.9fa5cde4.css",
+    "static/js/main.4adf76ca.js"
   ]
 }
