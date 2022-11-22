@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.9fa5cde4.css",
-    "main.js": "/static/js/main.4adf76ca.js",
+    "main.js": "/static/js/main.bbea7e23.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/Mohammad_Hassim_Resume.pdf": "/static/media/Mohammad_Hassim_Resume.a5f7dab3cef2f75f174a.pdf",
+    "static/media/Mohammad-Hassim-Resume.pdf": "/static/media/Mohammad-Hassim-Resume.a5f7dab3cef2f75f174a.pdf",
     "static/media/AboutMe.svg": "/static/media/AboutMe.454b4884a3c230e7f275944a585427f5.svg",
     "static/media/Contact.svg": "/static/media/Contact.a8e3fa0f6a972f7fdc6bc096e6412f2e.svg",
     "static/media/internet.svg": "/static/media/internet.5b9c13bf1b8de01ec0248ea37ccd894b.svg",
@@ -12,11 +12,11 @@
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
     "main.9fa5cde4.css.map": "/static/css/main.9fa5cde4.css.map",
-    "main.4adf76ca.js.map": "/static/js/main.4adf76ca.js.map",
+    "main.bbea7e23.js.map": "/static/js/main.bbea7e23.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fa5cde4.css",
-    "static/js/main.4adf76ca.js"
+    "static/js/main.bbea7e23.js"
   ]
 }
