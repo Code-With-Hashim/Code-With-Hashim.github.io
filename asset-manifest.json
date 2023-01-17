@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.9fa5cde4.css",
-    "main.js": "/static/js/main.8f9e822a.js",
+    "main.js": "/static/js/main.3c8345e5.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Mohammad-Hassim-Resume.pdf": "/static/media/Mohammad-Hassim-Resume.a5f7dab3cef2f75f174a.pdf",
     "static/media/AboutMe.svg": "/static/media/AboutMe.454b4884a3c230e7f275944a585427f5.svg",
     "static/media/Contact.svg": "/static/media/Contact.a8e3fa0f6a972f7fdc6bc096e6412f2e.svg",
     "static/media/internet.svg": "/static/media/internet.5b9c13bf1b8de01ec0248ea37ccd894b.svg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/gmail.svg": "/static/media/gmail.7014c106863669faa2e8edf006d26793.svg",
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
     "main.9fa5cde4.css.map": "/static/css/main.9fa5cde4.css.map",
-    "main.8f9e822a.js.map": "/static/js/main.8f9e822a.js.map",
+    "main.3c8345e5.js.map": "/static/js/main.3c8345e5.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fa5cde4.css",
-    "static/js/main.8f9e822a.js"
+    "static/js/main.3c8345e5.js"
   ]
 }
