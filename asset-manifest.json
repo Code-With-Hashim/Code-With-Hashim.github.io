@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8840c5a9.css",
-    "main.js": "/static/js/main.ab24f0e2.js",
+    "main.js": "/static/js/main.bca95926.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Mohammad-Hassim-Resume.pdf": "/static/media/Mohammad-Hassim-Resume.0e9b55818ded05800b87.pdf",
     "static/media/aboutme.png": "/static/media/aboutme.0c9e18a9ffb0ef0648ee.png",
@@ -11,11 +11,11 @@
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
     "main.8840c5a9.css.map": "/static/css/main.8840c5a9.css.map",
-    "main.ab24f0e2.js.map": "/static/js/main.ab24f0e2.js.map",
+    "main.bca95926.js.map": "/static/js/main.bca95926.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8840c5a9.css",
-    "static/js/main.ab24f0e2.js"
+    "static/js/main.bca95926.js"
   ]
 }
